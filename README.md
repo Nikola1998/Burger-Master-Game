@@ -12,6 +12,7 @@ enabling the time limit constraint.
    time is up, player will get to see his creation in a free-look form.
  * Otherwise if the player turns off the time limit - he will get as much time as he pleases to do what he wants.
    There are no constraints in this mode.
+
 P.S. It's a bit filled with spaghetti code - I'm still quite in the learning process of Unity in order to make clean and concise code, so apologies in advance :)
    
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
