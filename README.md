@@ -2,6 +2,7 @@
 Prototype of a burger making simulation game
 
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
 This is a prototype project made as a home assigment for CrazyLabs "CrazyHubs" internship application.
 
 It is a fairly light paced and relaxing simulation-type game about making burgers. Due to time constraints,
@@ -11,4 +12,5 @@ enabling the time limit constraint.
    time is up, player will get to see his creation in a free-look form.
  * Otherwise if the player turns off the time limit - he will get as much time as he pleases to do what he wants.
    There are no constraints in this mode.
-   = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+   
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
