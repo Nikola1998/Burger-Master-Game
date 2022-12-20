@@ -14,3 +14,8 @@ enabling the time limit constraint.
    There are no constraints in this mode.
    
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+Also - download link for the .apk file is here: 
+https://drive.google.com/file/d/12nG3aZFNw7C_AKqyP0XIPou1Hgis3BOV/view?usp=share_link
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
