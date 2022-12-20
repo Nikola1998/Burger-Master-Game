@@ -11,4 +11,4 @@ enabling the time limit constraint.
    time is up, player will get to see his creation in a free-look form.
  * Otherwise if the player turns off the time limit - he will get as much time as he pleases to do what he wants.
    There are no constraints in this mode.
-= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+   = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
