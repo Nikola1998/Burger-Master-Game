@@ -1,7 +1,7 @@
 # Burger-Master-Game
 Prototype of a burger making simulation game
 
-= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 
 This is a prototype project made as a home assigment for CrazyLabs "CrazyHubs" internship application.
 
@@ -13,4 +13,4 @@ enabling the time limit constraint.
  * Otherwise if the player turns off the time limit - he will get as much time as he pleases to do what he wants.
    There are no constraints in this mode.
    
-= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
